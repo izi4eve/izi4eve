@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almush-code
-- 👀 I’m interested in FLUTTER
-- 🌱 I’m currently learning FLUTTER
-- 💞️ I’m looking to collaborate on FLUTTER
+- 👀 I’m interested in FLUTTER and QA
+- 🌱 I’m currently learning FLUTTER and QA
+- 💞️ I’m looking to collaborate on FLUTTER and QA
 - 📫 How to reach me mynotedata@gmail.com
 
 <!---
